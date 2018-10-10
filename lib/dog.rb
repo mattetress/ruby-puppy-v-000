@@ -12,6 +12,7 @@ class Dog
     @@all.each do |dog|
       
     end
+    binding.pry
   end
 
 end
